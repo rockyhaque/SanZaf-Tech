@@ -1,0 +1,210 @@
+[
+    {
+        "_id": "1501a",
+        "name": "Paper",
+        "service": "Newspaper, Plain paper, any sort of single paper, envelopes, paper plates.",
+        "image": "https://i.ibb.co/QYnqxSr/Paper.png",
+        "category": "paper",
+        "price": 10
+    },
+    {
+        "_id": "1502b",
+        "name": "Notebook",
+        "service": "Books, Magazine, Diary, Phone Books, Memo.",
+        "image": "https://i.ibb.co/Fsn2FH4/Notebook.png",
+        "category": "paper",
+        "price": 15
+    },
+    {
+        "_id": "1503c",
+        "name": "Packaging Material",
+        "service": "Cardboard boxes, paper bags, and packing peanuts made from recycled content.",
+        "image": "https://i.ibb.co/6mJ9QwF/Packaging-Material.png",
+        "category": "paper",
+        "price": 18
+    },
+    {
+        "_id": "1504d",
+        "name": "Plastic Bottle",
+        "service": "Water bottle, Beverage bottle, Household Bottle",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "category": "plastic",
+        "price": 12
+    },
+    {
+        "_id": "1505e",
+        "name": "Container Utensils",
+        "service": "Water container, Oil container, Household container, Disposable kitchen accessories",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-5-370x247.jpg",
+        "category": "plastic",
+        "price": 14
+    },
+    {
+        "_id": "1506f",
+        "name": "Plastic Bag",
+        "service": "Plastic bag, poly bag, or pouch container made of thin, flexible, plastic film, nonwoven fabric or plastic textile.",
+        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "category": "plastic",
+        "price": 12
+    },
+    {
+        "_id": "1507g",
+        "name": "Aluminum Can",
+        "service": "Aluminum soda or beer cans, and pat food and meat cans.",
+        "image": "https://ibb.co/f1yLPNN",
+        "category": "metal",
+        "price": 16
+    },
+    {
+        "_id": "1508h",
+        "name": "Steel Container",
+        "service": "Food Containers, Household Containers made of steel.",
+        "image": "https://i.ibb.co/0s59TpH/Steel-Container.png",
+        "category": "metal",
+        "price": 17
+    },
+    {
+        "_id": "1509i",
+        "name": "Bottle Cap",
+        "service": "Steel caps of beverage bottles.",
+        "image": "https://i.ibb.co/SBtW4CM/Bottle-Cap.png",
+        "category": "metal",
+        "price": 10
+    },
+    {
+        "_id": "1510j",
+        "name": "Glass Bottle",
+        "service": "Bevarage bottle, Medicine bottle, Beauty products bottle.",
+        "image": "https://i.ibb.co/cbL0fw4/Glass-Bottle.png",
+        "category": "glass",
+        "price": 12
+    },
+    {
+        "_id": "1511k",
+        "name": "Glass Containers/Jar",
+        "service": "Food jar",
+        "image": "https://i.ibb.co/2PHFFXK/Glass-Container.png",
+        "category": "glass",
+        "price": 12
+    },
+    {
+        "_id": "15111k",
+        "name": "Wastage Mirror",
+        "service": "Regular mirror, Retail wastage mirror.",
+        "image": "https://i.ibb.co/7JBVDDc/Wastage-Mirror.png",
+        "category": "glass",
+        "price": 15
+    },
+    {
+        "_id": "1512l",
+        "name": "Clothing",
+        "service": "Clothing encompasses a wide range of garments and accessories worn to cover the body, provide protection, and express personal style.",
+        "image": "https://i.ibb.co/y0Dw4VW/Cloth.png",
+        "category": "textile",
+        "price": 20
+    },
+    {
+        "_id": "1513m",
+        "name": "Bags",
+        "service": "Bags are versatile accessories designed for carrying personal items, ranging from essentials like wallets and keys to larger items such as laptops and clothing",
+        "image": "https://i.ibb.co/DgS4bw7/Bag.png",
+        "category": "textile",
+        "price": 18
+    },
+    {
+        "_id": "1514n",
+        "name": "Febric-based Wastage",
+        "service": "Garments/Industrial cuts.",
+        "image": "https://i.ibb.co/8cVzJ61/Febric-based-Wastage.png",
+        "category": "textile",
+        "price": 12
+    },
+    {
+        "_id": "1515o",
+        "name": "Electronic Devices.",
+        "service": "Phone, Computer and modern electronics circuits.",
+        "image": "https://i.ibb.co/nk4QjGR/Electronic-Devices.png",
+        "category": "electronic",
+        "price": 50
+    },
+    {
+        "_id": "1516p",
+        "name": "Cables",
+        "service": "Regular/Industrial cable, burnt cables copper, Wastage cable.",
+        "image": "https://i.ibb.co/sRhkPSZ/Cables-or-Wires.png",
+        "category": "electronic",
+        "price": 5
+    },
+    {
+        "_id": "1517q",
+        "name": "Electronic Accessories",
+        "service": "TV/Monitor panel or circuits, AC/Fridge waste parts. ",
+        "image": "https://i.ibb.co/mGKRxLQ/Electronic-Accessories.png",
+        "category": "electronic",
+        "price": 40
+    },
+    {
+        "_id": "1518r",
+        "name": "Paper",
+        "service": "Newspaper, Plain paper any sort of single paper, envelopes, paper plates.",
+        "image": "https://i.ibb.co/QYnqxSr/Paper.png",
+        "category": "offered",
+        "price": 10
+    },
+    {
+        "_id": "1519s",
+        "name": "Bottle Cap",
+        "service": "Steel caps of beverage bottles.",
+        "image": "https://i.ibb.co/SBtW4CM/Bottle-Cap.png",
+        "category": "offered",
+        "price": 5
+    },
+    {
+        "_id": "1520t",
+        "name": "Clothing",
+        "service": "Clothing encompasses a wide range of garments and accessories worn to cover the body, provide protection, and express personal style. ",
+        "image": "https://i.ibb.co/y0Dw4VW/Cloth.png",
+        "category": "offered",
+        "price": 15
+    },
+    {
+        "_id": "1521w",
+        "name": "Cables",
+        "service": "Regular/Industrial cable, burnt cables copper, Wastage cable.",
+        "image": "https://i.ibb.co/sRhkPSZ/Cables-or-Wires.png",
+        "category": "offered",
+        "price": 15
+    },
+    {
+        "_id": "1522x",
+        "name": "Container Utensils",
+        "service": "Water container, Oil container, Household container, Disposable kitchen accessories",
+        "image": "https://i.ibb.co/NrT1mgg/Container-Utensils.png",
+        "category": "popular",
+        "price": 15
+    },
+    {
+        "_id": "1523y",
+        "name": "Aluminum Can",
+        "service": "Aluminum soda or beer cans, and pat food and meat cans.",
+        "image": "https://ibb.co/f1yLPNN",
+        "category": "popular",
+        "price": 20
+    },
+    {
+        "_id": "15222z",
+        "name": "Glass Bottle",
+        "service": "Bevarage bottle, Medicine bottle, Beauty products bottle.",
+        "image": "https://i.ibb.co/cbL0fw4/Glass-Bottle.png",
+        "category": "popular",
+        "price": 10
+    },
+    {
+        "_id": "1524z1",
+        "name": "Bags",
+        "service": "Bags are versatile accessories designed for carrying personal items, ranging from essentials like wallets and keys to larger items such as laptops and clothing.",
+        "image": "https://i.ibb.co/DgS4bw7/Bag.png",
+        "category": "popular",
+        "price": 10
+    }
+]
